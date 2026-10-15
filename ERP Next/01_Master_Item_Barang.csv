@@ -1,0 +1,6 @@
+﻿Kode_Barang,Nama_Barang,Kategori_Grup,Satuan_UOM,Deskripsi,Bisa_Dijual,Bisa_Dibeli,Harga_Standar_IDR
+MB-001,Meja Belajar Kayu Minimalis,Products,Nos,Meja belajar kayu solid mahoni dengan rangka besi hollow minimalis,Yes,No,550000
+BB-001,Papan Kayu Mahoni 120x60,Raw Material,Nos,Papan kayu solid mahoni ukuran 120x60 cm tebal 3 cm diserut halus,No,Yes,120000
+BB-002,Kaki Besi Hollow Meja,Raw Material,Nos,Kaki meja dari besi hollow ukuran 40x40 mm powder coating hitam,No,Yes,45000
+BB-003,Baut & Sekrup Baja 5cm,Raw Material,Nos,Sekrup kayu baja galvanis anti karat ukuran 5 cm,No,Yes,1000
+BB-004,Cat Vernis Natural Clear,Raw Material,Litre,Cat vernis politur pelindung kayu transparan kilap (glossy),No,Yes,65000

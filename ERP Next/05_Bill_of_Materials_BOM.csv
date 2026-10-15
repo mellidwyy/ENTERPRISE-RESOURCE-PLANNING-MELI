@@ -1,0 +1,8 @@
+﻿Produk_Utama,Kode_Komponen,Nama_Komponen,Jumlah_Dibutuhkan,Satuan_UOM,Estimasi_Harga_Satuan_IDR,Estimasi_Subtotal_IDR
+MB-001 (Meja Belajar),BB-001,Papan Kayu Mahoni 120x60,1,Nos,120000,120000
+MB-001 (Meja Belajar),BB-002,Kaki Besi Hollow Meja,4,Nos,45000,180000
+MB-001 (Meja Belajar),BB-003,Baut & Sekrup Baja 5cm,16,Nos,1000,16000
+MB-001 (Meja Belajar),BB-004,Cat Vernis Natural Clear,0.5,Litre,65000,32500
+TOTAL_BOM_COST_PER_UNIT,,,,,,348500
+HARGA_JUAL_STANDAR,,,,,,550000
+ESTIMASI_MARGIN_LABA_PER_UNIT,,,,,,201500
